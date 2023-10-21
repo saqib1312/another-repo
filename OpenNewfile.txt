@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 My name is saqib and i am working in SLK Softwaresand learning new git and jenkin
+=======
+My name is saqib and i am working in SLK Softwares
+and Now
+>>>>>>> e3b51fce2c22792e36f15c4758768cc569fb60b8
 
